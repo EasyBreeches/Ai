@@ -1,2 +1,2 @@
-# Ai
+# AiPlayer
 AiPlayer for Geometry Dash
