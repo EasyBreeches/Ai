@@ -1,0 +1,4 @@
+AI Player v0.2.0
+Artifact: source project ZIP, NOT a compiled .geode mod.
+Autonomous input: not implemented.
+Test status: not compiled or tested against Android SDK.
